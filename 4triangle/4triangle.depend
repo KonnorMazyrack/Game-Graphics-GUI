@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1707326644 source:t:\p\graphics\4triangle\4triangle.c
+	<GL/glut.h>
+

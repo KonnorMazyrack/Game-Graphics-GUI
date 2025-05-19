@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1707955772 source:t:\p\graphics\soilexample\maintextures.c
+	<GL/glut.h>
+	<SOIL/SOIL.h>
+

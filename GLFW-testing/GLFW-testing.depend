@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709572594 source:t:\p\graphics\glfw-testing\glfwmain.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<stdio.h>
+

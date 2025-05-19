@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1708535365 source:t:\p\graphics\3dtemplate\3dmain.c
+	<GL/glut.h>
+
+1708708989 source:t:\p\graphics\3dtexture\3dmain.c
+	<GL/glut.h>
+
+1708709747 source:t:\p\graphics\3dtexture\opengl.c
+	"main.h"
+
+1708708819 t:\p\graphics\3dtexture\main.h
+	<GL/glut.h>
+
+1708710505 source:t:\p\graphics\3dtexture\texture.c
+	"main.h"
+	<SOIL/SOIL.h>
+
+1708710589 source:t:\p\graphics\3dtexture\3dmain (2).c
+	"main.h"
+

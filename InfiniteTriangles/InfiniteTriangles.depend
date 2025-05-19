@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1707328123 source:t:\p\graphics\infinitetriangles\2dtext-main.c
+	<GL/glut.h>
+

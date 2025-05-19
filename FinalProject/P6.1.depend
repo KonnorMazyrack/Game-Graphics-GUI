@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1713304460 source:d:\graphics\p6.1\main.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<stb_image.h>
+	<string>
+	<iostream>
+	<fstream>
+	<cmath>
+	<glm.hpp>
+	<gtc/type_ptr.hpp>
+	<gtc/matrix_transform.hpp>
+	"Sphere.h"
+	"Utils.h"
+
+1713291054 d:\graphics\p6.1\sphere.h
+	<cmath>
+	<vector>
+	<glm.hpp>
+
+1713291054 d:\graphics\p6.1\utils.h
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<string>
+	<iostream>
+	<fstream>
+	<cmath>
+	<vector>
+	<glm.hpp>
+	<gtc/type_ptr.hpp>
+	<stb_image.h>
+
+1713291054 source:d:\graphics\p6.1\sphere.cpp
+	<cmath>
+	<vector>
+	<iostream>
+	<glm.hpp>
+	"Sphere.h"
+
+1713291054 source:d:\graphics\p6.1\utils.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<stb_image.h>
+	<string>
+	<iostream>
+	<fstream>
+	<cmath>
+	<glm.hpp>
+	<gtc/type_ptr.hpp>
+	<gtc/matrix_transform.hpp>
+	<gtx/euler_angles.hpp>
+	"Utils.h"
+
+1713291735 source:d:\graphics\p6.1\maze.cpp
+	<vector>
+	<iostream>
+	<glm.hpp>
+
+1713291789 d:\graphics\p6.1\maze.h
+	<vector>
+	<glm.hpp>
+

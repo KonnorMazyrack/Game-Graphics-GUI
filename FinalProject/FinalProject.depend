@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1713803914 source:t:\p\graphics\finalproject\main.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<stb_image.h>
+	<string>
+	<iostream>
+	<fstream>
+	<cmath>
+	<glm.hpp>
+	<gtc/type_ptr.hpp>
+	<gtc/matrix_transform.hpp>
+	"Sphere.h"
+	"Utils.h"
+
+1713801761 t:\p\graphics\finalproject\sphere.h
+	<cmath>
+	<vector>
+	<glm.hpp>
+
+1713801761 t:\p\graphics\finalproject\utils.h
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<string>
+	<iostream>
+	<fstream>
+	<cmath>
+	<vector>
+	<glm.hpp>
+	<gtc/type_ptr.hpp>
+	<stb_image.h>
+
+1713801768 source:t:\p\graphics\finalproject\maze.cpp
+	<cmath>
+	<vector>
+	<iostream>
+	<glm.hpp>
+	"Maze.h"
+
+1713801768 t:\p\graphics\finalproject\maze.h
+	<vector>
+	<glm.hpp>
+
+1713801761 source:t:\p\graphics\finalproject\sphere.cpp
+	<cmath>
+	<vector>
+	<iostream>
+	<glm.hpp>
+	"Sphere.h"
+
+1713801761 source:t:\p\graphics\finalproject\utils.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<stb_image.h>
+	<string>
+	<iostream>
+	<fstream>
+	<cmath>
+	<glm.hpp>
+	<gtc/type_ptr.hpp>
+	<gtc/matrix_transform.hpp>
+	<gtx/euler_angles.hpp>
+	"Utils.h"
+

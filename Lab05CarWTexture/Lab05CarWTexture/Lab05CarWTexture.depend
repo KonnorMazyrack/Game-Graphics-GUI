@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1707952355 source:t:\p\graphics\lab05carwtexture\main.c
+	"main.h"
+
+1707953127 t:\p\graphics\lab05carwtexture\main.h
+	<GL/glut.h>
+	<SOIL/SOIL.h>
+
+1707952355 source:t:\p\graphics\lab05carwtexture\models.c
+	"main.h"
+
+1707952355 source:t:\p\graphics\lab05carwtexture\opengl.c
+	"main.h"
+
+1707958160 source:t:\gamesgraphics,andguis\lab05carwtexture\main.c
+	"main.h"
+
+1707955327 t:\gamesgraphics,andguis\lab05carwtexture\main.h
+	<GL/glut.h>
+	<SOIL/SOIL.h>
+
+1707954401 source:t:\gamesgraphics,andguis\lab05carwtexture\models.c
+	"main.h"
+
+1707957911 source:t:\gamesgraphics,andguis\lab05carwtexture\opengl.c
+	"main.h"
+
+1708105704 source:c:\users\001034268\downloads\lab05carwtexture\lab05carwtexture\main.c
+	"main.h"
+
+1708104243 c:\users\001034268\downloads\lab05carwtexture\lab05carwtexture\main.h
+	<GL/glut.h>
+	<SOIL/SOIL.h>
+
+1708104243 source:c:\users\001034268\downloads\lab05carwtexture\lab05carwtexture\models.c
+	"main.h"
+
+1708105241 source:c:\users\001034268\downloads\lab05carwtexture\lab05carwtexture\opengl.c
+	"main.h"
+

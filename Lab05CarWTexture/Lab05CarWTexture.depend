@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1708107294 source:t:\p\graphics\lab05carwtexture\main.c
+	"main.h"
+
+1707956727 t:\p\graphics\lab05carwtexture\main.h
+	<GL/glut.h>
+	<SOIL/SOIL.h>
+
+1707955955 source:t:\p\graphics\lab05carwtexture\models.c
+	"main.h"
+
+1708107762 source:t:\p\graphics\lab05carwtexture\opengl.c
+	"main.h"
+

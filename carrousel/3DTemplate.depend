@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1708535365 source:t:\p\graphics\3dtemplate\3dmain.c
+	<GL/glut.h>
+
+1709168026 source:t:\p\graphics\carrousel\3dmain.c
+	<GL/glut.h>
+
+1708621796 c:\mingw-libs\freeglut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+

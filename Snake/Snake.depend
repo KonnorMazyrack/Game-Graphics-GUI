@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1709143322 source:c:\users\001009433\desktop\ggg\snake\snake.c
+	<GL/freeglut.h>
+	<stdlib.h>
+	<stdio.h>
+
+1711554989 source:t:\p\graphics\snake\snake.c
+	<GL/freeglut.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<SOIL/SOIL.h>
+

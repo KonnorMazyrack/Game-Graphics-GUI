@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1706746049 source:t:\p\graphics\2dtransformations\2dtext-main.c
+	<GL/glut.h>
+

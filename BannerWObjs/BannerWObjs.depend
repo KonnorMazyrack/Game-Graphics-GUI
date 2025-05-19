@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1709141401 source:t:\p\graphics\bannerwobjs\3dmain.c
+	"main.h"
+
+1709141401 t:\p\graphics\bannerwobjs\main.h
+	<GL/glut.h>
+
+1709141401 source:t:\p\graphics\bannerwobjs\model.c
+	<stdlib.h>
+	<stdio.h>
+	<GL/glut.h>
+	<assimp/cimport.h>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+
+1709141401 source:t:\p\graphics\bannerwobjs\opengl.c
+	"main.h"
+
+1709141401 source:t:\p\graphics\bannerwobjs\texture.c
+	"main.h"
+	<SOIL/SOIL.h>
+

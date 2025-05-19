@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1709143443 source:t:\p\graphics\semi3d\importobj.cpp
+	"importObj.h"
+	<GL/glut.h>
+
+1709143468 t:\p\graphics\semi3d\importobj.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
+1709169110 source:t:\p\graphics\semi3d\main.cpp
+	"importObj.h"
+	<GL/glut.h>
+	<windows.h>
+	<math.h>
+

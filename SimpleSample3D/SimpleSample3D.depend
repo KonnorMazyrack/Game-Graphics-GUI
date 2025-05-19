@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1709162905 source:t:\p\graphics\simplesample3d\sample_simpleopengl.c
+	<stdlib.h>
+	<stdio.h>
+	<freeglut.h>
+	<GL/freeglut.h>
+	<assimp/cimport.h>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+

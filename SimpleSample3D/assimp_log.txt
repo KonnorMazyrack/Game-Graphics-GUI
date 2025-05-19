@@ -1,0 +1,25 @@
+Info,  T14324: Load Koenigsegg.obj
+Info,  T14324: Found a matching importer for this file format: Wavefront Object Importer.
+Info,  T14324: Import root directory is '.\'
+Error, T14324: OBJ: Unable to locate material file Koenigsegg.mtl
+Info,  T14324: OBJ: Opening fallback material file Koenigsegg.mtl
+Error, T14324: OBJ: Unable to locate fallback material file Koenigsegg.mtl
+Error, T14324: OBJ: failed to locate material Carbon.003, creating new material
+Error, T14324: OBJ: failed to locate material Window_Glass, creating new material
+Error, T14324: OBJ: failed to locate material Carbon, creating new material
+Error, T14324: OBJ: failed to locate material Carbon.002, creating new material
+Error, T14324: OBJ: failed to locate material Car_Texture, creating new material
+Error, T14324: OBJ: failed to locate material Carbon.001, creating new material
+Error, T14324: OBJ: failed to locate material Rear_Lights, creating new material
+Info,  T14324: Entering post processing pipeline
+Info,  T14324: RemoveRedundantMatsProcess finished. Removed 6 redundant and 1 unused materials.
+Info,  T14324: TriangulateProcess finished. All polygons have been triangulated.
+Warn,  T14324: Found 10 degenerated primitives
+Info,  T14324: Points: 0, Lines: 1, Triangles: 11, Polygons: 0 (Meshes, X = removed)
+Info,  T14324: FindInvalidDataProcess finished. Found issues ...
+Info,  T14324: Tangents are undefined for line and point meshes
+Info,  T14324: CalcTangentsProcess finished. Tangents have been calculated
+Info,  T14324: JoinVerticesProcess finished | Verts in: 95027 out: 45631 | ~51.981
+Error, T14324: This algorithm works on triangle meshes only
+Info,  T14324: Cache relevant are 5 meshes (42881 faces). Average output ACMR is 1.15923
+Info,  T14324: Leaving post processing pipeline

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1707759890 source:t:\p\graphics\lab4interaction-reorg\main.c
+	"main.h"
+
+1707758049 source:t:\p\graphics\lab4interaction-reorg\models.c
+
+1707760211 source:t:\p\graphics\lab4interaction-reorg\opengl.c
+	"main.h"
+
+1707759890 t:\p\graphics\lab4interaction-reorg\main.h
+	<GL/glut.h>
+
